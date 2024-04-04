@@ -688,7 +688,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3229,
         "fields": {
             "question": 321,
-            "description": "If they continue to stay firm on deposing Thieu then threaten them with more bombing campaigns. I want them in our court, not the other way around."
+            "description": "If they continue to stay firm on deposing Thiệu then threaten them with more bombing campaigns. I want them in our court, not the other way around."
         }
     },
     {
@@ -5100,7 +5100,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 24,
             "state": 145,
-            "state_multiplier": 0.9329
+            "state_multiplier": 0.9929
         }
     },
     {
@@ -5559,7 +5559,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 23,
             "state": 145,
-            "state_multiplier": 0.8508
+            "state_multiplier": 0.8008
         }
     },
     {
@@ -10396,7 +10396,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3227,
             "candidate": 23,
-            "answer_feedback": "The negotiations fell through as quickly as they started. As expected the South Vietnamese delegation refused to cooperate. Kissinger lays out his plan to force the North back to the table but the public blowback from this will give you a headache."
+            "answer_feedback": "The negotiations fell through as quickly as they started. As expected the South Vietnamese delegation refused to cooperate. Kissinger lays out his plan to force the South back to the table, but the public blowback from this will give you a headache."
         }
     },
     {
@@ -11242,7 +11242,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 9595,
             "candidate": 23,
-            "answer_feedback": "The plan spectacularly fails as Le Duc Thiệu takes to the radio announcing that the peace agreement Is much worse than it actually is. Hanoi is dumbfounded and pulls out of the agreement. You won't be getting a peace deal before November, Nelson."
+            "answer_feedback": "The plan spectacularly fails as Nguyễn Văn Thiệu takes to the radio announcing that the peace agreement Is much worse than it actually is. Hanoi is dumbfounded and pulls out of the agreement. You won't be getting a peace deal before November, Nelson."
         }
     },
     {
@@ -11251,7 +11251,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 9598,
             "candidate": 23,
-            "answer_feedback": "Your threats seem to have finally gotten across Le Duc Thiệu's thick skull. He reluctantly agrees to sign the deal with the promise that if the North violates it you will order another bombing campaign."
+            "answer_feedback": "Your threats seem to have finally gotten across Nguyễn Văn Thiệu's thick skull. He reluctantly agrees to sign the deal with the promise that if the North violates it you will order another bombing campaign."
         }
     },
     {
@@ -11269,7 +11269,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 9602,
             "candidate": 23,
-            "answer_feedback": "Unfortunately Kissinger failed to notify Le Duc Thiệu of the deal and he took to the radio announcing that the peace agreement was a sham. Hanoi is dumbfounded and pulls out of the agreement. You won't be getting a peace deal before November, Nelson."
+            "answer_feedback": "Unfortunately, Kissinger failed to notify Nguyễn Văn Thiệu of the deal, and he took to the radio to announce that the peace agreement was a sham. Hanoi is dumbfounded and pulls out of the agreement. You won't be getting a peace deal before November, Nelson."
         }
     }
 ]
