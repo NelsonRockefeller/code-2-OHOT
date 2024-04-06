@@ -11384,7 +11384,13 @@ Extreme Diff. Posted: 5/23/2023.
 <p>As you watched the states being called, you couldn't help but smile. You managed to wave off Muskie, even if just barely. Down Ballot Republicans took a lashing, of course but you can't help but think of the opportunity that leaves. The power to install more “Rockefeller men” in those same positions in 2 years.</p> 
 <p>While there are going to be bumps in the road of your second term like your corrupt Vice president. You'll plead your innocence and tell the media you had no idea about his bribery scandal. You most definitely knew, you knew he was no good even in 68, but the press won't find that out. Who will you nominate as his replacement? Romney? Percy? Not that it matters. More and more of the Republican party will submit to you. Nixon is a sign of the times. Who knows what lies above your next term? Maybe Nixon will give it another try in 4 years, or maybe Percy or even Brooke? Regardless, your victory has finally vindicated Rockefeller Republicanism. Goldwater denounces you at every turn. He's a man unable to be persuaded nor bought. South Vietnam will be contentious when it falls. That is, if you allow it to fall. Who knows, Nelson, you've got four more years to pave the way.</p>`;
     }
-    if(quickstats[0] > 220) {
+     if(aa[0].electoral_votes < 270 && aa[1].electoral_votes < 270 && aa[2].electoral_votes < 270) {
+        setImage("https://i.imgur.com/RzvY32n_d.jpg?maxwidth=520&shape=thumb&fidelity=high");
+        return `<h3>RUSHER FORCES A DEADLOCK</h3>
+<p>This might have been the most infuriating possible outcome for you to see. That moron actually pulled it off. Muskie is surprised that the lead he gained was cut short. Now you have more chaos as the election is thrown to the house. Muskie has the upper hand, but he will have to compromise with his right wing. You're probably thinking you can steal the votes he needs in the South, aren't you? Let's see how it goes.</p>
+<p>[January 1975] You smile toward the crowd of reporters who came to hear your announcement. The announcement that you are running for the 1976 Republican nomination. You couldn't help but mull over in agony for years after the house voted in favor of Muskie by a slim majority. What caused your defeat? Well, besides the obvious, like the Cambodia leaks. It was the conservative protest of some 30 representatives that betrayed the party and voted for Bill Rusher. It's starting to make sense. Rusher never planned to start a new party his goal was to get you out of the way and open the field for Reagan. Now you feel you're entitled to at least try to get back at them. Early polls predict you will lose to Reagan by 10 points plus. There's no denying he's the front-runner for the nomination, and it will be an uphill battle. Rockefeller Republicans aren't dead, but as of now, You're their life support, Nelson. </p>`;
+    }
+    if(quickstats[0] > 210) {
         setImage("https://i.imgur.com/UGNcFX1_d.jpg?maxwidth=520&shape=thumb&fidelity=high");
         return `<h3>Desperately Aloof</h3>
 <p>Despite the fight you gave to keep the presidency, the Cambodia leaks were just too much to overcome. You will mull over this defeat and its causes for the rest of your life. Were you too liberal? Too conservative? Did you put too much trust in Henry?</p>
@@ -11406,7 +11412,7 @@ Extreme Diff. Posted: 5/23/2023.
         setImage("https://i.imgur.com/FO40dnv.png");
         return `<h3>Failure Republicanism</h3>
 <p>You failed Nelson You Failed, You failed, You failed. Kissinger apologizes for what happened as you watch the landslide sweep you to the side. It didn't matter you look at Happy as she comforts you. There is no comeback from this. There is no saving your image. You were destroyed. You will mull over this defeat and its causes for the rest of your life. Were you too liberal? Too conservative? Did you put too much trust in Henry?</p>
- <p>Muskie will have a complicated presidency, but will secure a second term in his close victory over Governor Reagan. Your family is happy to have you around more, but you'll ruin that too. Your wandering eye lands on your assistant, Megan Marshack. You'll die in circumstances with her that are undoubtedly romantic. What a real, classy way to end your legacy. At the funeral session, Blanchet Rockefeller turned to Hugh Morrow “Well, we'll miss them both.” She told Morrow, referring to you and her late husband, John Rockefeller III. “But it is a lot more peaceful.”</p>`;
+ <p>Muskie will have a complicated presidency but will secure a second term in his close victory over Governor Reagan. Your family is happy to have you around more, but you'll ruin that too. Your wandering eye lands on your assistant, Megan Marshack. You'll die in circumstances with her that are undoubtedly romantic. What a real, classy way to end your legacy. At the funeral session, Blanchet Rockefeller turned to Hugh Morrow “Well, we'll miss them both.” She told Morrow, referring to you and her late husband, John Rockefeller III. “But it is a lot more peaceful.”</p>`;
     }
     if(quickstats[0] == 0) {
         setImage("https://i.imgur.com/toxc1jm_d.jpg?maxwidth=520&shape=thumb&fidelity=high");
@@ -11500,14 +11506,23 @@ campaignTrail_temp.jet_data = [{
         "1711949954595": {
             "id": 1711949954595,
             "variable": 0,
+            "operator": "==",
+            "value": 0,
+            "endingImage": "https://i.imgur.com/RzvY32n_d.jpg?maxwidth=520&shape=thumb&fidelity=high",
+            "endingText": "<h3>RUSHER FORCES A DEADLOCK</h3>\n<p>This might have been the most infuriating possible outcome for you to see. That moron actually pulled it off. Muskie is surprised that the lead he gained was cut short. Now you have more chaos as the election is thrown to the house. Muskie has the upper hand, but he will have to compromise with his right wing. You're probably thinking you can steal the votes he needs in the South, aren't you? Let's see how it goes.</p>\n<p>[January 1975] You smile toward the crowd of reporters who came to hear your announcement. The announcement that you are running for the 1976 Republican nomination. You couldn't help but mull over in agony for years after the house voted in favor of Muskie by a slim majority. What caused your defeat? Well, besides the obvious, like the Cambodia leaks. It was the conservative protest of some 30 representatives that betrayed the party and voted for Bill Rusher. It's starting to make sense. Rusher never planned to start a new party his goal was to get you out of the way and open the field for Reagan. Now you feel you're entitled to at least try to get back at them. Early polls predict you will lose to Reagan by 10 points plus. There's no denying he's the front-runner for the nomination, and it will be an uphill battle. Rockefeller Republicans aren't dead, but as of now, You're their life support, Nelson. </p>",
+            "amount": "269"
+        },
+        "1711950596556": {
+            "id": 1711950596556,
+            "variable": 0,
             "operator": ">",
             "value": 0,
             "endingImage": "https://i.imgur.com/UGNcFX1_d.jpg?maxwidth=520&shape=thumb&fidelity=high",
             "endingText": "<h3>Desperately Aloof</h3>\n<p>Despite the fight you gave to keep the presidency, the Cambodia leaks were just too much to overcome. You will mull over this defeat and its causes for the rest of your life. Were you too liberal? Too conservative? Did you put too much trust in Henry?</p>\n<p>Muskie now takes office and is an unpopular bumbling fool. Polls predict that Muskie will lose to a Republican no matter what because of the so-called “Muskie Malaise.” You think that maybe, just maybe, you can make a comeback in 76. It'll be tough and for the second time in your career. You will need to fight a conservative champion. Given that your loss was close, maybe you can push Reagan aside and vindicate yourself. As you prepare to take the fight to Reagan other moderates feel that you should support a younger alternative like Percy. We both know your oblivious selfishness could never let the opportunity to be president again slide by. Happy, and the kids are happy to have you home but maybe you’ll change that. Regardless, it'll be interesting to see how your life continues, Nelson.</p>",
-            "amount": "220"
+            "amount": "210"
         },
-        "1711950596556": {
-            "id": 1711950596556,
+        "1711950919908": {
+            "id": 1711950919908,
             "variable": 0,
             "operator": ">",
             "value": 0,
@@ -11515,8 +11530,8 @@ campaignTrail_temp.jet_data = [{
             "endingText": "<h3>Cynical Planning</h3>\n<p>You watched the states being called sadly as the election was called early that night. You avoided being completely crushed, but your defeat is clear. There's no further you can go from this defeat, and you know it deep down.</p>\n<p>However, not all hope is lost for your wing of the party. While your defeat leaves the opening for Reagan in 76, it doesn't mean he's won it already. If you can strong-arm the party into picking someone moderate like Percy, Ford, or hell, maybe even Romney. You might save your wing of the party. However, Nelson, I know what you're thinking. You think if you can manage to deadlock the convention, you can come up the middle and take the nomination. I'll tell you this now friend you'll make yourself look like a fool and kill your wing of the party that way. I know you're too eager to listen to me, though. You've already started planning your great return. Good luck, Nelson.</p>",
             "amount": "170"
         },
-        "1711950919908": {
-            "id": 1711950919908,
+        "1711993472954": {
+            "id": 1711993472954,
             "variable": 0,
             "operator": ">",
             "value": 0,
@@ -11524,17 +11539,17 @@ campaignTrail_temp.jet_data = [{
             "endingText": "<h3>The Grand Old Party's Fate</h3>\n<p>As you watch the states being called it's quite clear early on that you won't be winning this election. Down-ballot Republicans are tanked along with you, and the weight of your loss sinks any hope of preserving the Eastern establishment's power. Muskie will enter office riding high on popularity, but as South Vietnam falls and the economy sinks, it's clear that his reelection prospects are grim. Reagan had little opposition going in, and once he took the nomination, it was clear the party had been cemented as a conservative one. However, Reagan's chances are doubtful regardless. The last time an extremist like him ran, it was a disaster…</p>\n <p>[January 1977] You sit in sheer disbelief at the inauguration of the 39th president, Ronald Reagan. Happy holds your hand as you lament about the death of the “Grand Old Party.” The campaign was contentious, and it seemed that Muskie was making a comeback in the last few weeks, but time wasn't on the president's side. He lost the election 257 to Reagan's 281 electoral votes. It may not be a massive mandate, but it is one President Reagan will run with. Regardless of the success of his term, Rockefeller Republicans have been laid to rest.</p>",
             "amount": "100"
         },
-        "1711993472954": {
-            "id": 1711993472954,
+        "1712205664004": {
+            "id": 1712205664004,
             "variable": 0,
             "operator": ">",
             "value": 0,
             "endingImage": "https://i.imgur.com/FO40dnv.png",
-            "endingText": "<h3>Failure Republicanism</h3>\n<p>You failed Nelson You Failed, You failed, You failed. Kissinger apologizes for what happened as you watch the landslide sweep you to the side. It didn't matter you look at Happy as she comforts you. There is no comeback from this. There is no saving your image. You were destroyed. You will mull over this defeat and its causes for the rest of your life. Were you too liberal? Too conservative? Did you put too much trust in Henry?</p>\n <p>Muskie will have a complicated presidency, but will secure a second term in his close victory over Governor Reagan. Your family is happy to have you around more, but you'll ruin that too. Your wandering eye lands on your assistant, Megan Marshack. You'll die in circumstances with her that are undoubtedly romantic. What a real, classy way to end your legacy. At the funeral session, Blanchet Rockefeller turned to Hugh Morrow “Well, we'll miss them both.” She told Morrow, referring to you and her late husband, John Rockefeller III. “But it is a lot more peaceful.”</p>",
+            "endingText": "<h3>Failure Republicanism</h3>\n<p>You failed Nelson You Failed, You failed, You failed. Kissinger apologizes for what happened as you watch the landslide sweep you to the side. It didn't matter you look at Happy as she comforts you. There is no comeback from this. There is no saving your image. You were destroyed. You will mull over this defeat and its causes for the rest of your life. Were you too liberal? Too conservative? Did you put too much trust in Henry?</p>\n <p>Muskie will have a complicated presidency but will secure a second term in his close victory over Governor Reagan. Your family is happy to have you around more, but you'll ruin that too. Your wandering eye lands on your assistant, Megan Marshack. You'll die in circumstances with her that are undoubtedly romantic. What a real, classy way to end your legacy. At the funeral session, Blanchet Rockefeller turned to Hugh Morrow “Well, we'll miss them both.” She told Morrow, referring to you and her late husband, John Rockefeller III. “But it is a lot more peaceful.”</p>",
             "amount": "0"
         },
-        "1712205664004": {
-            "id": 1712205664004,
+        "1712397074219": {
+            "id": 1712397074219,
             "variable": 0,
             "operator": "==",
             "value": 0,
