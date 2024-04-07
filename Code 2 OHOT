@@ -31,7 +31,7 @@ campaignTrail_temp.questions_json = [
         "pk": 322,
         "fields": {
             "priority": 0,
-            "description": "[January 1969] You look out to the sea of people that have come for you, Nelson. The feeling you so desperately craved ever since your childhood. The need to create a legacy that goes beyond being a Rockefeller. That being president. A need you've feared could never be met. Now the crowd awaits your address. What will you emphasize in your speech? \n",
+            "description": "[January 1969] You look out to the sea of people that have come for you, Nelson. The feeling you so desperately craved ever since your childhood. The need to create a legacy that goes beyond being a Rockefeller. That being president. A need you've feared could never be met. Now, the crowd awaits your address. What will you emphasize in your speech? \n",
             "likelihood": 1
         }
     },
@@ -112,7 +112,7 @@ campaignTrail_temp.questions_json = [
         "pk": 292,
         "fields": {
             "priority": 2,
-            "description": "[October 1971] Attica is a sign of the times. Your Urban Renewal is not cutting it for the American people, crime is still high and climbing. Agnew is urging you to lean further right on crime.",
+            "description": "[October 1971] Attica is a sign of the times. Your Urban Renewal is not cutting it for the American people. Crime is still high and climbing. Agnew is urging you to lean further right on law and order.",
             "likelihood": 1
         }
     },
@@ -157,7 +157,7 @@ campaignTrail_temp.questions_json = [
         "pk": 285,
         "fields": {
             "priority": 2,
-            "description": "[August 1972] Despite flirting with the idea of challenging you Ronald Reagan made no attempt to take the nomination from you. The nomination is now yours, what will you highlight in your speech to the convention?",
+            "description": "[August 1972] Despite flirting with the idea of challenging you, Ronald Reagan made no attempt to take the nomination from you. The nomination is yours, what will you highlight in your speech to the convention?",
             "likelihood": 1
         }
     },
@@ -193,7 +193,7 @@ campaignTrail_temp.questions_json = [
         "pk": 274,
         "fields": {
             "priority": 2,
-            "description": "Reagan refused to endorse you in 68 but he has also denounced Rusher's third party run. Now you are the incumbent president, maybe you can convince him to endorse you?",
+            "description": "Reagan refused to endorse you in 68 but he has also denounced Rusher's third-party run. Now you are the incumbent president, maybe you can convince him to endorse you?",
             "likelihood": 1
         }
     },
@@ -265,7 +265,7 @@ campaignTrail_temp.questions_json = [
         "pk": 9520,
         "fields": {
             "priority": 0,
-            "description": "The peace negotiations are reaching a compromise point in Paris, but as the days until the election grow closer, you can't help but feel the walls closing in on you. Will you do anything to speed up the negotiations?",
+            "description": "The peace negotiations are reaching a compromise point in Paris, but as the days until the election grows closer, you can't help but feel the walls closing in on you. Will you do anything to speed up the negotiations?",
             "likelihood": 1
         }
     },
@@ -283,7 +283,7 @@ campaignTrail_temp.questions_json = [
         "pk": 9525,
         "fields": {
             "priority": 0,
-            "description": "Your long-time friend and ardent supporter Jackie Robinson has died of a heart attack. In your last conversation with him, he expressed his worries about the presidency changing you. At the time you casually brushed him off. Regret washes over you.\n",
+            "description": "Your long-time friend and ardent supporter, Jackie Robinson has died of a heart attack. In your last conversation with him, he expressed his worries about the presidency changing you. At the time, you casually brushed him off. Regret washes over you. What's next, Nelson?\n",
             "likelihood": 1
         }
     },
@@ -344,7 +344,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1669,
         "fields": {
             "question": 256,
-            "description": "This is well, a thing that Henry is an expert in. I'd be a damn fool not to take his advice. Let's stick to the plan Dick and Henry laid out. Gradually end our involvement over the next few years. Train the ARVN in the meantime. I'll make this clear though, we are not changing course on this no matter what—no boots on the ground in Cambodia."
+            "description": "This is well, a thing that Henry is an expert in. I'd be a damn fool not to take his advice. Let's stick to the plan Dick and Henry laid out. Gradually end our involvement over the next few years. Train the ARVN in the meantime. I'll make this clear-we are not changing course on this no matter what—no boots on the ground in Cambodia."
         }
     },
     {
@@ -352,7 +352,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1685,
         "fields": {
             "question": 260,
-            "description": "I understand Ted and Dick's reservations and this will undoubtedly cause a rift with the right, but there is no opportunity more important than relaxing relations with Red China.\n"
+            "description": "I understand Ted and Dick's reservations and this will undoubtedly cause a rift with the right, but there is no opportunity more important than relaxing relations with Red China. I'm goin. Henry, make sure all the cameras are ready because this is a moment that everyone needs to see.\n"
         }
     },
     {
@@ -368,7 +368,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1691,
         "fields": {
             "question": 262,
-            "description": "He's going on and on about how the war should be over. but the real truth is that if the country was under his administration, he'd humiliate us with a hastily put-together withdrawal. Further sinking the trust that our allies have in us."
+            "description": "He's going on and on about how the war should be over, but the truth is that if the country was under his administration, he'd humiliate us with a hastily put-together withdrawal, further sinking the trust that our allies have in us."
         }
     },
     {
@@ -392,7 +392,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1697,
         "fields": {
             "question": 264,
-            "description": "Dammit, Henry! Tell the air force to up the bombing even more, do whatever you can to wash these rats out! If Cambodia falls I’m screwed!"
+            "description": "Dammit, Henry! Tell the Air Force to up the bombing even more, do whatever you can to wash these rats out! If Cambodia falls I’m screwed!"
         }
     },
     {
@@ -408,7 +408,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1699,
         "fields": {
             "question": 264,
-            "description": "Continue the covert bombing as is, we can't risk this leaking to the press. The Khmer Rouge is going to break eventually, I just know it."
+            "description": "Continue the covert bombing as is, we can't risk this leaking to the press. The Khmer Rouge is going to break eventually. I just know it."
         }
     },
     {
@@ -424,7 +424,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1709,
         "fields": {
             "question": 267,
-            "description": "I don't believe it's my place to save a bill proposed by Congress. Now If the bill made its way to my desk I'd sign it. Expanding Healthcare is the wave of the future, no matter what you think about it."
+            "description": "I don't believe it's my place to save a bill proposed by Congress. Now If the bill made its way to my desk, I'd sign it. Expanding Healthcare is the wave of the future, no matter what you think about it."
         }
     },
     {
@@ -448,7 +448,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1713,
         "fields": {
             "question": 268,
-            "description": "She had very strong convictions about life and uh, shared them with us. Frankly, I'd prefer to keep the letter private if you don’t mind David. "
+            "description": "She had very strong convictions about life and uh, shared them with us. Frankly, I'd prefer to keep the letter private if you don’t mind, David. "
         }
     },
     {
@@ -512,7 +512,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1737,
         "fields": {
             "question": 274,
-            "description": "Ron’s a nice guy, every time we've met we have been cordial, barring well.. the incident in New Orleans. I think if we just set up a meeting with him, then we can iron things out."
+            "description": "Ron’s a nice guy, everytime we've met, we have been cordial, barring well.. the incident in New Orleans. I think if we just set up a meeting with him, then we can iron things out."
         }
     },
     {
@@ -536,7 +536,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1750,
         "fields": {
             "question": 278,
-            "description": "He has been planning this for a decade, regardless of what I did. He was never a Republican, he was always an extremist."
+            "description": "He has been planning this for a decade, regardless of what I did. He was never a Republican. He was always an extremist."
         }
     },
     {
@@ -552,7 +552,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1761,
         "fields": {
             "question": 281,
-            "description": "Hubert was a veteran debater who I beat easily last time. Muskie is no problem, I'll breeze through it easily."
+            "description": "Hubert was a veteran debater who I beat easily last time. Muskie is no problem. I'll breeze through it easily."
         }
     },
     {
@@ -632,7 +632,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1788,
         "fields": {
             "question": 290,
-            "description": "No, I would never betray Lyndon's programs. I made him a promise, and I plan on keeping it. It will be hell to deal with the liberal wrath anyway. Tell David to use those uh- Price and wage control amendments that were passed, yeah, that should work."
+            "description": "No, I would never betray Lyndon's programs. I made him a promise, and I plan on keeping it. It will be hell to deal with the liberal wrath anyway. Tell David to use those uh- Price and wage control amendments that were passed. Yeah, that should work."
         }
     },
     {
@@ -656,7 +656,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1795,
         "fields": {
             "question": 292,
-            "description": "Fine, let's push for Congress to enact a bill on crime. Longer sentences, and harder punishments. Especially for college bombers that should stir the right. We need to be tough on crime."
+            "description": "Fine, let's push for Congress to enact a bill on crime. Longer sentences and harsher punishments. Especially for college bombers that should stir the right. We need to be tough on crime."
         }
     },
     {
@@ -664,7 +664,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1796,
         "fields": {
             "question": 292,
-            "description": "I have been a survivor as a minority party leader for four terms in New York and it wasn't because I was naïve. I will propose low-income housing projects across the country similar to my job in New York."
+            "description": "I have been a survivor as a minority party leader for four terms in New York, and it wasn't because I was naïve. I will propose low-income housing projects across the country similar to my job in New York."
         }
     },
     {
@@ -680,7 +680,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3228,
         "fields": {
             "question": 321,
-            "description": "We know the nonstarters for the South Vietnamese delegation. If the North stays firm we'll stay firm. Henry, I want you to keep the negotiations open to continue. We can't risk a public meltdown now, even if we don't manage to get any compromise."
+            "description": "We know the nonstarters for the South Vietnamese delegation. If the North stays firm, we'll stay firm. Henry, I want you to keep the negotiations open to continue. We can't risk a public meltdown now, even if we don't manage to get any compromise."
         }
     },
     {
@@ -696,7 +696,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3231,
         "fields": {
             "question": 322,
-            "description": "“My fellow Americans, what we have seen over the last 4 years is a nation that has overpromised and underdelivered. We promise more things than we had- the revenue and income than we've been able uh. to do-”"
+            "description": "“My fellow Americans, what we have seen over the last 4-years is a nation that has overpromised and underdelivered. We promise more things than we had- the revenue and income than we've been able uh. to do-”"
         }
     },
     {
@@ -704,7 +704,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3232,
         "fields": {
             "question": 322,
-            "description": "“We live in critical times, I have great faith in our country and I'm optimistic about the future. We can't take that future for granted. I will lead us through the problems we will face as individuals and as a nation-”"
+            "description": "“We live in critical times, I have great faith in our country, and I'm optimistic about the future. We can't take that future for granted. I will lead us through the problems we will face as individuals and as a nation-”"
         }
     },
     {
@@ -712,7 +712,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3233,
         "fields": {
             "question": 322,
-            "description": "“As I stand before you, I feel a great sense of humility. I feel a great sense of gratitude for serving the country I love. The things the past year has brought upon us proves the strength and vitality of this country-”"
+            "description": "“As I stand before you, I feel a great sense of humility. I feel a great sense of gratitude for serving the country I love. The things the past year has brought upon us prove the strength and vitality of this country-”"
         }
     },
     {
@@ -720,7 +720,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3235,
         "fields": {
             "question": 323,
-            "description": "We as a nation have exhausted every resource to stop this drug epidemic. We need to be tougher. So I now propose a mandatory minimum 15-year sentence for anyone selling drugs like heroin, morphine, cocaine, and cannabis."
+            "description": "We as a nation have exhausted every resource to stop this drug epidemic. We need to be tougher on the drug trade. So I now propose a mandatory minimum 15-year sentence for anyone selling drugs like heroin, morphine, cocaine, and cannabis."
         }
     },
     {
@@ -736,7 +736,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3237,
         "fields": {
             "question": 323,
-            "description": "I think this is an issue Congress can decide for themselves. If a bill comes to my desk and It's reasonable. I'll sign it."
+            "description": "I think this is an issue Congress can decide for themselves. If a bill comes to my desk, and It's reasonable. I'll sign it."
         }
     },
     {
@@ -744,7 +744,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3243,
         "fields": {
             "question": 325,
-            "description": "Let's get me and Ted all over the South, Rusher's numbers are crashing. We can get some of the big states like Texas, Tennessee, hell maybe even North and South Carolina"
+            "description": "Let's get me, and Ted all over the South. Rusher's numbers are crashing. We can get some of the big states like Texas, Tennessee, and maybe even North and South Carolina."
         }
     },
     {
@@ -760,7 +760,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3245,
         "fields": {
             "question": 325,
-            "description": "No, I don't want to throw the campaign into the mud. I have never relied on petty attacks to win elections and I don't plan to start. This country has gone through enough. "
+            "description": "No, I don't want to throw the campaign into the mud. I have never relied on petty attacks to win elections and, I don't plan to start. This country has gone through enough. "
         }
     },
     {
@@ -776,7 +776,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3247,
         "fields": {
             "question": 326,
-            "description": "It's Extremely important to stay with the times so I shall establish the Department of Environmental Conservation. We desperately need to combat issues like water pollution."
+            "description": "It's extremely important to stay with the times, so I shall establish the Department of Environmental Conservation. We desperately need to combat issues like water pollution."
         }
     },
     {
@@ -896,7 +896,7 @@ campaignTrail_temp.answers_json = [
         "pk": 9059,
         "fields": {
             "question": 285,
-            "description": "My father was often advised not to build more office space in Rockefeller Center due to the depression. He ignored the advice because he believed in America's future. Even if we struggle to hold up Great Society why shouldn't we try for America- no, our kid's futures."
+            "description": "My father was often advised not to build more office space in Rockefeller Center due to the depression. He ignored the advice because he believed in America's future. Even if we struggle to hold up Great Society why shouldn't we try for America- no, our kid's futures?"
         }
     },
     {
@@ -928,7 +928,7 @@ campaignTrail_temp.answers_json = [
         "pk": 9248,
         "fields": {
             "question": 254,
-            "description": "We can't advocate for spending cuts while Vietnam still looms over us. The backlash will be too much. If Congress passes spending cuts then I'll sign it. If not then we'll just have to keep moving forward. There are other ways to emphasize my conservative credentials."
+            "description": "We can't advocate for spending cuts while Vietnam still looms over us. The backlash will be too muc. If Congress passes spending cuts then I'll sign it. If not we'll have to just keep moving forward. There are other ways to emphasize my conservative credentials."
         }
     },
     {
@@ -936,7 +936,7 @@ campaignTrail_temp.answers_json = [
         "pk": 9252,
         "fields": {
             "question": 278,
-            "description": "I've dealt with this back in 66, the conservatives didn't stop me then, and they won't stop me now. Lets up our campaign events in the south. Targeting Texas and the Carolinas is vital to keep us afloat."
+            "description": "I dealt with this back in 66, the conservatives didn't stop me then, and they won't stop me now. Lets up our campaign events in the south. Targeting Texas and the Carolinas is vital to keep us afloat."
         }
     },
     {
@@ -976,7 +976,7 @@ campaignTrail_temp.answers_json = [
         "pk": 9501,
         "fields": {
             "question": 264,
-            "description": "Look I'm not asking for some radical change, but let's gradually decrease the bombing runs until we're through this next election. Once we're in the clear, let's just review our options then."
+            "description": "Look I'm not asking for some radical change, but let's gradually decrease the bombing runs until we're through this next election. Once we're in the clear, let's just review our options."
         }
     },
     {
@@ -1024,7 +1024,7 @@ campaignTrail_temp.answers_json = [
         "pk": 9572,
         "fields": {
             "question": 9529,
-            "description": "The Midwest was a disaster that almost stole the election last time. There's no place more important right now. Let's get up to Ohio, Michigan and meet Percy down in Illinois."
+            "description": "The Midwest was a disaster that almost stole the election last time. There's no place more important right now. Let's get up to Ohio and Michigan. Then we'll meet Senator Percy down in Illinois."
         }
     },
     {
@@ -1032,7 +1032,7 @@ campaignTrail_temp.answers_json = [
         "pk": 9582,
         "fields": {
             "question": 288,
-            "description": "When I hear of Muskie's could be? might be? maybe? Promises of tax cuts, his promises of holding down spending while spending more money I just wonder how many of you voters he thinks he can fool?"
+            "description": "When I hear of Muskie's could be? might be? maybe? Promises of tax cuts, his promises of holding down spending while spending more money. I just wonder how many of you voters he thinks he can fool?"
         }
     },
     {
@@ -1040,7 +1040,7 @@ campaignTrail_temp.answers_json = [
         "pk": 9585,
         "fields": {
             "question": 262,
-            "description": "I'm concerned about Muskie's logistics. I'm concerned about his actual knowledge of the war. We have made it quite clear that, we have a plan and said plan is working. More and more Americans come home every year, and South Vietnamese resolve stands strong."
+            "description": "I'm concerned about Muskie's logistics. I'm concerned about his actual knowledge of the war. We have made it quite clear that, we have a plan and that said plan is working. More and more Americans come home every-year, and South Vietnamese resolve stands strong."
         }
     },
     {
@@ -1048,7 +1048,7 @@ campaignTrail_temp.answers_json = [
         "pk": 9588,
         "fields": {
             "question": 9519,
-            "description": "As much as I respect Secretary Nixon, I can't, in good conscience, hand over control to him at such vital point. Change in leadership can sabotage our chances at getting a peace deal."
+            "description": "As much as I respect Secretary Nixon, I can't, in good conscience, hand over control to him at such a vital point. Change in leadership can sabotage our chances of getting a peace deal. I'll call up Henry and boost his spirits."
         }
     },
     {
@@ -1072,7 +1072,7 @@ campaignTrail_temp.answers_json = [
         "pk": 9598,
         "fields": {
             "question": 9520,
-            "description": "Keep Thiệu in the loop and if he tries to pull out then tell him I'll go to him personally and threaten him with the immediate suspension of all offensive operations and pull out without offering him anything."
+            "description": "Keep Thiệu in the loop and if he tries to pull out then I'll go to him personally and threaten him with the immediate suspension of all offensive operations and pull out without offering him anything, but \"international support.\""
         }
     },
     {
@@ -6244,7 +6244,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 1763,
             "candidate": 23,
             "affected_candidate": 23,
-            "global_multiplier": -0.025
+            "global_multiplier": -0.055
         }
     },
     {
@@ -6314,7 +6314,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3229,
             "candidate": 23,
             "affected_candidate": 23,
-            "global_multiplier": -0.09
+            "global_multiplier": -0.03
         }
     },
     {
@@ -6629,26 +6629,6 @@ campaignTrail_temp.answer_score_global_json = [
     },
     {
         "model": "campaign_trail.answer_score_global",
-        "pk": 9317,
-        "fields": {
-            "answer": 1709,
-            "candidate": 23,
-            "affected_candidate": 23,
-            "global_multiplier": -0.066
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_global",
-        "pk": 9321,
-        "fields": {
-            "answer": 1710,
-            "candidate": 23,
-            "affected_candidate": 23,
-            "global_multiplier": -0.02
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_global",
         "pk": 9358,
         "fields": {
             "answer": 1786,
@@ -6916,8 +6896,8 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3227,
             "issue": 11,
-            "issue_score": 0.46,
-            "issue_importance": 12
+            "issue_score": -0.46,
+            "issue_importance": 6
         }
     },
     {
@@ -6926,7 +6906,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3228,
             "issue": 11,
-            "issue_score": -0.11,
+            "issue_score": -0.01,
             "issue_importance": 6
         }
     },
@@ -6986,7 +6966,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3236,
             "issue": 13,
-            "issue_score": 0.003,
+            "issue_score": 0.023,
             "issue_importance": 7
         }
     },
@@ -7255,7 +7235,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 9609,
         "fields": {
             "answer": 1691,
-            "issue": "11",
+            "issue": 11,
             "issue_score": -0.03,
             "issue_importance": 3
         }
@@ -10427,7 +10407,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1664,
             "candidate": 23,
-            "answer_feedback": "You've been talking about revenue sharing for a long time. Maybe this push will get it through finally. Ford is also an ardent supporter of Revenue Sharing."
+            "answer_feedback": "You've been talking about revenue sharing for a long time. Maybe this push will get it through finally. Ford is also a supporter of Revenue Sharing."
         }
     },
     {
@@ -10463,7 +10443,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3232,
             "candidate": 23,
-            "answer_feedback": "Despite mentioning your optimism, your speech came off as bland and self-defeating. Regardless it's time to get to work."
+            "answer_feedback": "Despite mentioning your optimism, your speech came off as bland and self-defeating. Regardless, it's time to get to work."
         }
     },
     {
@@ -10481,7 +10461,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3235,
             "candidate": 23,
-            "answer_feedback": "Rockefeller drug laws as they are called receive widespread popularity. Liberals call this draconian but the conservatives eat it up as your polling swiftly rises."
+            "answer_feedback": "Rockefeller drug laws as they are called receive widespread popularity. Liberals call this draconian, but the conservatives eat it up, and your polling swiftly rises."
         }
     },
     {
@@ -10571,7 +10551,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3292,
             "candidate": 23,
-            "answer_feedback": "The tour turned out to have a lot more bumps with a failure to get a meeting with student militants after a fire was set on the United States Ecuadorian Culture Center. You came off like you were campaigning more than understanding their needs. News stations portray this as an unmitigated failure.\n\n"
+            "answer_feedback": "The tour turned out to have a lot more bumps with a failure to get a meeting with student militants after a fire was set on the United States Ecuadorian Culture Center. You came off like you were campaigning more than understanding their needs. News stations portray this as an unmitigated failure."
         }
     },
     {
@@ -10580,7 +10560,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3231,
             "candidate": 23,
-            "answer_feedback": "The public notices your shift in rhetoric. Liberals are unsettled but Conservatives lean in."
+            "answer_feedback": "The public notices your shift in rhetoric. Liberals are unsettled, but Conservatives lean in."
         }
     },
     {
@@ -10670,7 +10650,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3290,
             "candidate": 23,
-            "answer_feedback": "Wilson takes most of the heat from the scenario but people wonder where you stand on the issue. People are demanding answers, Nelson."
+            "answer_feedback": "Wilson takes most of the heat from the scenario, but people wonder where you stand on the issue. People are demanding answers, Nelson."
         }
     },
     {
@@ -10688,7 +10668,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1795,
             "candidate": 23,
-            "answer_feedback": "As your crime bill is passed it establishes increases on federal sentencing and improved police budgets, along with many other things. Liberal voices decry you for taking advantage of America's worst Instincts. However this reflects the changing currents of politics."
+            "answer_feedback": "As your crime bill is passed, it establishes increases in federal sentencing and improved police budgets, along with many other things. Liberal voices decry you for taking advantage of America's worst Instincts. However, this reflects the changing currents of politics."
         }
     },
     {
@@ -10787,7 +10767,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1782,
             "candidate": 23,
-            "answer_feedback": "This is rich coming from you of all people. in this regard, it does score you points with conservatives, even if you have a debatably worse record."
+            "answer_feedback": "This is rich coming from you of all people. In this regard, it does score you points with conservatives, even if you have a \"debatably\" worse record."
         }
     },
     {
@@ -10796,7 +10776,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1783,
             "candidate": 23,
-            "answer_feedback": "It's a decent attack, but Muskie just reaffirms his stance that the war was unjustified and the need to get out of it. Overall it doesn't help you."
+            "answer_feedback": "It's a decent attack, but Muskie reaffirms his stance that the war was unjustified and the need to get out of it. Overall it doesn't help you."
         }
     },
     {
@@ -10823,7 +10803,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1749,
             "candidate": 23,
-            "answer_feedback": "Rusher is certainly no George Wallace, your lead in the southern states has still been diminished. While you may feel safe, Muskie can swoop in and steal some of the south from you if you aren't careful."
+            "answer_feedback": "Rusher is certainly no George Wallace, but your lead in the southern states has still been diminished. While you may feel safe, Muskie can swoop in and steal some of the south from you if you aren't careful."
         }
     },
     {
@@ -10841,7 +10821,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1666,
             "candidate": 23,
-            "answer_feedback": "Kissinger gets to it and soon you're signing off on Operation Freedom Deal within a week. This will resume covert bombing in Cambodia."
+            "answer_feedback": "Kissinger gets to it, and soon you're signing off on Operation Freedom Deal within a week. This will resume covert bombing in Cambodia."
         }
     },
     {
@@ -10859,7 +10839,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1697,
             "candidate": 23,
-            "answer_feedback": "Henry relays this to the airforce; “A massive bombing campaign in Cambodia. Anything that flies on anything that moves.”\n"
+            "answer_feedback": "Henry relays this to the Air Force; “A massive bombing campaign in Cambodia. Anything that flies on anything that moves.”\n"
         }
     },
     {
@@ -10895,7 +10875,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1761,
             "candidate": 23,
-            "answer_feedback": "”I guess I really blew that one huh?” You told George nonchalantly. Muskie pressed you hard tonight and despite your attempts to appeal to the audience with charm, he took you down."
+            "answer_feedback": "”I guess I really blew that one huh?” You told George nonchalantly. Muskie pressed you hard tonight, and despite your attempts to appeal to the audience with charm, he took you down."
         }
     },
     {
@@ -10949,7 +10929,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1730,
             "candidate": 23,
-            "answer_feedback": "You assemble another one of your infamous “think tanks.” Kissinger promises to rush the negotiations as fast as he can. While Hinman advises you to give a vague response to the leaks. Morrow gets to writing your speech in response to the crisis. If you want to win you need to survive Nelson."
+            "answer_feedback": "You assemble another one of your infamous “think tanks.” Kissinger promises to rush the negotiations as fast as he can. While Hinman advises you to give a vague response to the leaks. Morrow gets to writing your speech in response to the crisis. If you want to win, you need to survive Nelson."
         }
     },
     {
@@ -10958,7 +10938,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3259,
             "candidate": 23,
-            "answer_feedback": "Agnew does what he's made to do, he drags Muskie's name through the mud, and by sheer luck, that fool takes the bait. Muskie, in a moment of rage rails into Agnew and you. The press were shocked by how emotional he was. You thankfully rise in the polls as all the headlines accuse Muskie of crying."
+            "answer_feedback": "Agnew does what he's made to do. He drags Muskie's name through the mud, and by sheer luck, that fool takes the bait. Muskie, in a moment of rage, rails into Agnew and you. The press was shocked by how emotional he was. You thankfully rise in the polls as all the headlines accuse Muskie of crying."
         }
     },
     {
@@ -10985,7 +10965,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3262,
             "candidate": 23,
-            "answer_feedback": "Agnew does what he's made to do, he drags Muskie's name through the mud, and by sheer luck that fool takes the bait. Muskie, in a moment of rage rails into Agnew and you. The press were shocked by how emotional he was. You thankfully rise in the polls as all the headlines accuse Muskie of crying.\n"
+            "answer_feedback": "Agnew does what he's made to do. He drags Muskie's name through the mud, and by sheer luck, that fool takes the bait. Muskie, in a moment of rage, rails into Agnew and you. The press was shocked by how emotional he was. You thankfully rise in the polls as all the headlines accuse Muskie of crying."
         }
     },
     {
@@ -11003,7 +10983,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 9248,
             "candidate": 23,
-            "answer_feedback": "Pushing this onto Congress with no action on your end will just be a continuation of the status quo. Further angering conservatives."
+            "answer_feedback": "Pushing this onto Congress with no action on your end will be a continuation of the status quo. Further angering conservatives."
         }
     },
     {
@@ -11030,7 +11010,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1709,
             "candidate": 23,
-            "answer_feedback": "If you thought to were denouncing the bill with this statement, you're wrong. You've essentially thrown your support behind the bill and now its chances of getting through have skyrocketed. Conservatives won't let you get away with this."
+            "answer_feedback": "If you thought you were denouncing the bill with this statement, you're wrong. You've essentially thrown your support behind the bill and, now its chances of getting through have skyrocketed. Conservatives won't let you get away with this."
         }
     },
     {
@@ -11075,7 +11055,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1691,
             "candidate": 23,
-            "answer_feedback": "Muskie defends his position but public view on the topic is complicated. Conservatives cheer this stance while liberals are deflated. Your focus on the reputation of the United States abroad is your saving grace."
+            "answer_feedback": "Muskie defends his position but the public view on the topic is complicated. Conservatives cheer this stance while liberals are deflated. Your focus on the reputation of the United States abroad is your saving grace."
         }
     },
     {
@@ -11129,7 +11109,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1736,
             "candidate": 23,
-            "answer_feedback": "You’re lucky no one heard you say that, because you’d drop like a brick in the polls. You and Reagan continue to have frosty relations at best."
+            "answer_feedback": "You’re lucky no one heard you say that because you’d drop like a brick in the polls. You and Reagan continue to have frosty relations at best."
         }
     },
     {
@@ -11138,7 +11118,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1737,
             "candidate": 23,
-            "answer_feedback": "The two of you do meet and you have a nice conversation over dinner. He agrees to give a formal endorsement of you the next morning."
+            "answer_feedback": "The two of you meet and you have a nice conversation over dinner. He agrees to give a formal endorsement of you the next morning."
         }
     },
     {
@@ -11156,7 +11136,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 9501,
             "candidate": 23,
-            "answer_feedback": "Kissinger disagrees with your decision, but he isn't aloof to your need to win a second term so he obliges and throughout the next couple of months, the bombing will gradually sunset."
+            "answer_feedback": "Kissinger disagrees with your decision, but he isn't aloof to your need to win a second term, so he obliges, and throughout the next couple of months, the bombing will gradually sunset."
         }
     },
     {
@@ -11174,7 +11154,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 9059,
             "candidate": 23,
-            "answer_feedback": "Conservatives roll their eyes. while you get cheers from moderates and liberals. You can see Reagan smirk as half the convention stays relatively quiet."
+            "answer_feedback": "Conservatives roll their eyes, While you get cheers from moderates and liberals. You can see Reagan smirk as half the convention stays relatively quiet."
         }
     },
     {
@@ -11183,7 +11163,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 9187,
             "candidate": 23,
-            "answer_feedback": "As much as you want to believe this is the way, you know deep down that  Agnew is an echo of what the voters want."
+            "answer_feedback": "As much as you want to believe this is the way, you know deep down that Agnew is an echo of what the voters want."
         }
     },
     {
@@ -11192,7 +11172,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 9522,
             "candidate": 23,
-            "answer_feedback": "The Muskie camp is doing whatever they can to drag this moment down but your place in the polls rises regardless. Your \"New Horizons\" speech is widely claimed to be your best yet."
+            "answer_feedback": "The Muskie camp is doing whatever they can to drag this moment down, but your place in the polls rises regardless. Your \"New Horizons\" speech is widely claimed to be your best yet."
         }
     },
     {
@@ -11237,7 +11217,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 9572,
             "candidate": 23,
-            "answer_feedback": "You smile as you barnstorm the Midwest meeting your almost fanatical supporters. You always made the secret service nervous as you would casually go through crowds shaking hands. Percy meets with you and you see in him a possible successor."
+            "answer_feedback": "You smile as you barnstorm the Midwest meeting your almost fanatical supporters. You always made the Secret Service nervous as you casually go through crowds shaking hands and signing photographs. Percy meets with you, and you see in him a possible successor."
         }
     },
     {
@@ -11255,7 +11235,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 9585,
             "candidate": 23,
-            "answer_feedback": "You gave an adequate defense to your record and Muskie is squirming. This is well taken by a majority of Americans."
+            "answer_feedback": "You gave an adequate defense to your record and Muskie is squirming. This is well-taken by a majority of Americans."
         }
     },
     {
@@ -11264,7 +11244,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 9588,
             "candidate": 23,
-            "answer_feedback": "You've chosen to stick by your friend. Hopefully he can deliver."
+            "answer_feedback": "You've chosen to stick with your friend. Hopefully, he can deliver."
         }
     },
     {
@@ -11376,19 +11356,19 @@ Extreme Diff. Posted: 5/23/2023.
         setImage("https://i.imgur.com/YL4F3Ik.png");
         return `<h3>Just keep moving forward!</h3>
 <p>You were starstruck as you saw state after state called for you. Apparently, it was never a close race, given the size of your victory. Down-ballot Republicans suffered some losses, but your performance saved a good few of them. Maybe that will make them loyal to you.</p>
-<p>While there are going to be bumps in the road of your second term like.. your corrupt Vice president. You'll plead your innocence and tell the media you had no idea. You most definitely knew, you knew he was no good even in 68, but the press will never know. Who will you nominate as his replacement? Romney? Percy? Not that it matters. More and more of the Republican party will submit to you. Nixon is a sign of the times. Who knows what lies above your next term? Maybe Nixon will give it another try in 4 years, or maybe Percy? Regardless, your victory has finally vindicated Rockefeller Republicanism. Reagan is sweating, knowing you will be the kingmaker in 76 and your chosen successor will be the shoo-in for the nomination. Goldwater denounces you at every turn. He's a man unable to be persuaded nor bought. South Vietnam will be contentious when it falls. That is, if you allow it to fall. Who knows, Nelson, you've got four more years to pave the way.</p>`;
+<p>While there are going to be bumps in the road of your second term like.. your corrupt Vice president. You'll plead your innocence and tell the media you had no idea. You most definitely knew you knew he was no good even in 68, but the press will never know. Who will you nominate as his replacement? Romney? Percy? Not that it matters. More and more of the Republican party will submit to you. Nixon is a sign of the times. Who knows what lies above your next term? Maybe Nixon will give it another try in 4 years, or maybe Percy? Regardless, your victory has finally vindicated Rockefeller Republicanism. Reagan is sweating, knowing you will be the kingmaker in 76 and your chosen successor will be the shoo-in for the nomination. Goldwater denounces you at every turn. He's a man unable to be persuaded nor bought. South Vietnam will be contentious when it falls. That is if you allow it to fall. Who knows, Nelson, you've got four more years to pave the way.</p>`;
     }
     if(quickstats[0] > 269) {
         setImage("https://i.imgur.com/eja8apX.png");
         return `<h3>True Vindication</h3>
-<p>As you watched the states being called, you couldn't help but smile. You managed to wave off Muskie, even if just barely. Down Ballot Republicans took a lashing, of course but you can't help but think of the opportunity that leaves. The power to install more “Rockefeller men” in those same positions in 2 years.</p> 
-<p>While there are going to be bumps in the road of your second term like your corrupt Vice president. You'll plead your innocence and tell the media you had no idea about his bribery scandal. You most definitely knew, you knew he was no good even in 68, but the press won't find that out. Who will you nominate as his replacement? Romney? Percy? Not that it matters. More and more of the Republican party will submit to you. Nixon is a sign of the times. Who knows what lies above your next term? Maybe Nixon will give it another try in 4 years, or maybe Percy or even Brooke? Regardless, your victory has finally vindicated Rockefeller Republicanism. Goldwater denounces you at every turn. He's a man unable to be persuaded nor bought. South Vietnam will be contentious when it falls. That is, if you allow it to fall. Who knows, Nelson, you've got four more years to pave the way.</p>`;
+<p>As you watched the states being called, you couldn't help but smile. You managed to wave off Muskie, even if just barely. Down Ballot Republicans took a lashing, of course, but you can't help but think of the opportunity that leaves. The power to install more “Rockefeller men” in those same positions in 2 years.</p> 
+<p>While there are going to be bumps in the road of your second term like your corrupt Vice president. You'll plead your innocence and tell the media you had no idea about his bribery scandal. You most definitely knew you knew he was no good even in 68, but the press won't find that out. Who will you nominate as his replacement? Romney? Percy? Not that it matters. More and more of the Republican party will submit to you. Nixon is a sign of the times. Who knows what lies above your next term? Maybe Nixon will give it another try in 4 years, or maybe Percy or even Brooke? Regardless, your victory has finally vindicated Rockefeller Republicanism. Goldwater denounces you at every turn. He's a man unable to be persuaded nor bought. South Vietnam will be contentious when it falls. That is if you allow it to fall. Who knows, Nelson, you've got four more years to pave the way.</p>`;
     }
-     if(aa[0].electoral_votes < 270 && aa[1].electoral_votes < 270 && aa[2].electoral_votes < 270) {
+   if(aa[0].electoral_votes < 270 && aa[1].electoral_votes < 270 && aa[2].electoral_votes < 270) {
         setImage("https://i.imgur.com/RzvY32n_d.jpg?maxwidth=520&shape=thumb&fidelity=high");
         return `<h3>RUSHER FORCES A DEADLOCK</h3>
 <p>This might have been the most infuriating possible outcome for you to see. That moron actually pulled it off. Muskie is surprised that the lead he gained was cut short. Now you have more chaos as the election is thrown to the house. Muskie has the upper hand, but he will have to compromise with his right wing. You're probably thinking you can steal the votes he needs in the South, aren't you? Let's see how it goes.</p>
-<p>[January 1975] You smile toward the crowd of reporters who came to hear your announcement. The announcement that you are running for the 1976 Republican nomination. You couldn't help but mull over in agony for years after the house voted in favor of Muskie by a slim majority. What caused your defeat? Well, besides the obvious, like the Cambodia leaks. It was the conservative protest of some 30 representatives that betrayed the party and voted for Bill Rusher. It's starting to make sense. Rusher never planned to start a new party his goal was to get you out of the way and open the field for Reagan. Now you feel you're entitled to at least try to get back at them. Early polls predict you will lose to Reagan by 10 points plus. There's no denying he's the front-runner for the nomination, and it will be an uphill battle. Rockefeller Republicans aren't dead, but as of now, You're their life support, Nelson. </p>`;
+<p>[January 1975] You smile toward the crowd of reporters who came to hear your announcement. The announcement that you are running for the 1976 Republican nomination. You couldn't help but lay dormant in agony for years after the house voted in favor of Muskie by a slim majority. What caused your defeat? Well, besides the obvious, like the Cambodia leaks. It was the conservative protest of some 30 representatives that betrayed the party and voted for Bill Rusher. It's starting to make sense. Rusher never planned to start a new party his goal was to get you out of the way and open the field for Reagan. Now you feel you're entitled to at least try to get back at them. Early polls predict you will lose to Reagan by 10 points plus. There's no denying he's the front-runner for the nomination, and it will be an uphill battle. Rockefeller Republicans aren't dead, but as of now, You're their life support, Nelson. </p>`;
     }
     if(quickstats[0] > 210) {
         setImage("https://i.imgur.com/UGNcFX1_d.jpg?maxwidth=520&shape=thumb&fidelity=high");
@@ -11411,7 +11391,7 @@ Extreme Diff. Posted: 5/23/2023.
     if(quickstats[0] > 0) {
         setImage("https://i.imgur.com/FO40dnv.png");
         return `<h3>Failure Republicanism</h3>
-<p>You failed Nelson You Failed, You failed, You failed. Kissinger apologizes for what happened as you watch the landslide sweep you to the side. It didn't matter you look at Happy as she comforts you. There is no comeback from this. There is no saving your image. You were destroyed. You will mull over this defeat and its causes for the rest of your life. Were you too liberal? Too conservative? Did you put too much trust in Henry?</p>
+<p>You failed Nelson You Failed, You failed, You failed. Kissinger apologizes for what happened as you watch the landslide sweep you to the side. It doesn't matter, you look at Happy as she comforts you. There is no comeback from this. There is no saving your image. You were destroyed. You will mull over this defeat and its causes for the rest of your life. Were you too liberal? Too conservative? Did you put too much trust in Henry?</p>
  <p>Muskie will have a complicated presidency but will secure a second term in his close victory over Governor Reagan. Your family is happy to have you around more, but you'll ruin that too. Your wandering eye lands on your assistant, Megan Marshack. You'll die in circumstances with her that are undoubtedly romantic. What a real, classy way to end your legacy. At the funeral session, Blanchet Rockefeller turned to Hugh Morrow “Well, we'll miss them both.” She told Morrow, referring to you and her late husband, John Rockefeller III. “But it is a lot more peaceful.”</p>`;
     }
     if(quickstats[0] == 0) {
@@ -11491,7 +11471,7 @@ campaignTrail_temp.jet_data = [{
             "operator": ">",
             "value": 0,
             "endingImage": "https://i.imgur.com/YL4F3Ik.png",
-            "endingText": "<h3>Just keep moving forward!</h3>\n<p>You were starstruck as you saw state after state called for you. Apparently, it was never a close race, given the size of your victory. Down-ballot Republicans suffered some losses, but your performance saved a good few of them. Maybe that will make them loyal to you.</p>\n<p>While there are going to be bumps in the road of your second term like.. your corrupt Vice president. You'll plead your innocence and tell the media you had no idea. You most definitely knew, you knew he was no good even in 68, but the press will never know. Who will you nominate as his replacement? Romney? Percy? Not that it matters. More and more of the Republican party will submit to you. Nixon is a sign of the times. Who knows what lies above your next term? Maybe Nixon will give it another try in 4 years, or maybe Percy? Regardless, your victory has finally vindicated Rockefeller Republicanism. Reagan is sweating, knowing you will be the kingmaker in 76 and your chosen successor will be the shoo-in for the nomination. Goldwater denounces you at every turn. He's a man unable to be persuaded nor bought. South Vietnam will be contentious when it falls. That is, if you allow it to fall. Who knows, Nelson, you've got four more years to pave the way.</p>",
+            "endingText": "<h3>Just keep moving forward!</h3>\n<p>You were starstruck as you saw state after state called for you. Apparently, it was never a close race, given the size of your victory. Down-ballot Republicans suffered some losses, but your performance saved a good few of them. Maybe that will make them loyal to you.</p>\n<p>While there are going to be bumps in the road of your second term like.. your corrupt Vice president. You'll plead your innocence and tell the media you had no idea. You most definitely knew you knew he was no good even in 68, but the press will never know. Who will you nominate as his replacement? Romney? Percy? Not that it matters. More and more of the Republican party will submit to you. Nixon is a sign of the times. Who knows what lies above your next term? Maybe Nixon will give it another try in 4 years, or maybe Percy? Regardless, your victory has finally vindicated Rockefeller Republicanism. Reagan is sweating, knowing you will be the kingmaker in 76 and your chosen successor will be the shoo-in for the nomination. Goldwater denounces you at every turn. He's a man unable to be persuaded nor bought. South Vietnam will be contentious when it falls. That is if you allow it to fall. Who knows, Nelson, you've got four more years to pave the way.</p>",
             "amount": "350"
         },
         "1711949487724": {
@@ -11500,7 +11480,7 @@ campaignTrail_temp.jet_data = [{
             "operator": ">",
             "value": 0,
             "endingImage": "https://i.imgur.com/eja8apX.png",
-            "endingText": "<h3>True Vindication</h3>\n<p>As you watched the states being called, you couldn't help but smile. You managed to wave off Muskie, even if just barely. Down Ballot Republicans took a lashing, of course but you can't help but think of the opportunity that leaves. The power to install more “Rockefeller men” in those same positions in 2 years.</p> \n<p>While there are going to be bumps in the road of your second term like your corrupt Vice president. You'll plead your innocence and tell the media you had no idea about his bribery scandal. You most definitely knew, you knew he was no good even in 68, but the press won't find that out. Who will you nominate as his replacement? Romney? Percy? Not that it matters. More and more of the Republican party will submit to you. Nixon is a sign of the times. Who knows what lies above your next term? Maybe Nixon will give it another try in 4 years, or maybe Percy or even Brooke? Regardless, your victory has finally vindicated Rockefeller Republicanism. Goldwater denounces you at every turn. He's a man unable to be persuaded nor bought. South Vietnam will be contentious when it falls. That is, if you allow it to fall. Who knows, Nelson, you've got four more years to pave the way.</p>",
+            "endingText": "<h3>True Vindication</h3>\n<p>As you watched the states being called, you couldn't help but smile. You managed to wave off Muskie, even if just barely. Down Ballot Republicans took a lashing, of course, but you can't help but think of the opportunity that leaves. The power to install more “Rockefeller men” in those same positions in 2 years.</p> \n<p>While there are going to be bumps in the road of your second term like your corrupt Vice president. You'll plead your innocence and tell the media you had no idea about his bribery scandal. You most definitely knew you knew he was no good even in 68, but the press won't find that out. Who will you nominate as his replacement? Romney? Percy? Not that it matters. More and more of the Republican party will submit to you. Nixon is a sign of the times. Who knows what lies above your next term? Maybe Nixon will give it another try in 4 years, or maybe Percy or even Brooke? Regardless, your victory has finally vindicated Rockefeller Republicanism. Goldwater denounces you at every turn. He's a man unable to be persuaded nor bought. South Vietnam will be contentious when it falls. That is if you allow it to fall. Who knows, Nelson, you've got four more years to pave the way.</p>",
             "amount": "269"
         },
         "1711949954595": {
@@ -11509,8 +11489,8 @@ campaignTrail_temp.jet_data = [{
             "operator": "==",
             "value": 0,
             "endingImage": "https://i.imgur.com/RzvY32n_d.jpg?maxwidth=520&shape=thumb&fidelity=high",
-            "endingText": "<h3>RUSHER FORCES A DEADLOCK</h3>\n<p>This might have been the most infuriating possible outcome for you to see. That moron actually pulled it off. Muskie is surprised that the lead he gained was cut short. Now you have more chaos as the election is thrown to the house. Muskie has the upper hand, but he will have to compromise with his right wing. You're probably thinking you can steal the votes he needs in the South, aren't you? Let's see how it goes.</p>\n<p>[January 1975] You smile toward the crowd of reporters who came to hear your announcement. The announcement that you are running for the 1976 Republican nomination. You couldn't help but mull over in agony for years after the house voted in favor of Muskie by a slim majority. What caused your defeat? Well, besides the obvious, like the Cambodia leaks. It was the conservative protest of some 30 representatives that betrayed the party and voted for Bill Rusher. It's starting to make sense. Rusher never planned to start a new party his goal was to get you out of the way and open the field for Reagan. Now you feel you're entitled to at least try to get back at them. Early polls predict you will lose to Reagan by 10 points plus. There's no denying he's the front-runner for the nomination, and it will be an uphill battle. Rockefeller Republicans aren't dead, but as of now, You're their life support, Nelson. </p>",
-            "amount": "269"
+            "endingText": "<h3>RUSHER FORCES A DEADLOCK</h3>\n<p>This might have been the most infuriating possible outcome for you to see. That moron actually pulled it off. Muskie is surprised that the lead he gained was cut short. Now you have more chaos as the election is thrown to the house. Muskie has the upper hand, but he will have to compromise with his right wing. You're probably thinking you can steal the votes he needs in the South, aren't you? Let's see how it goes.</p>\n<p>[January 1975] You smile toward the crowd of reporters who came to hear your announcement. The announcement that you are running for the 1976 Republican nomination. You couldn't help but lay dormant in agony for years after the house voted in favor of Muskie by a slim majority. What caused your defeat? Well, besides the obvious, like the Cambodia leaks. It was the conservative protest of some 30 representatives that betrayed the party and voted for Bill Rusher. It's starting to make sense. Rusher never planned to start a new party his goal was to get you out of the way and open the field for Reagan. Now you feel you're entitled to at least try to get back at them. Early polls predict you will lose to Reagan by 10 points plus. There's no denying he's the front-runner for the nomination, and it will be an uphill battle. Rockefeller Republicans aren't dead, but as of now, You're their life support, Nelson. </p>",
+            "amount": "270"
         },
         "1711950596556": {
             "id": 1711950596556,
@@ -11545,7 +11525,7 @@ campaignTrail_temp.jet_data = [{
             "operator": ">",
             "value": 0,
             "endingImage": "https://i.imgur.com/FO40dnv.png",
-            "endingText": "<h3>Failure Republicanism</h3>\n<p>You failed Nelson You Failed, You failed, You failed. Kissinger apologizes for what happened as you watch the landslide sweep you to the side. It didn't matter you look at Happy as she comforts you. There is no comeback from this. There is no saving your image. You were destroyed. You will mull over this defeat and its causes for the rest of your life. Were you too liberal? Too conservative? Did you put too much trust in Henry?</p>\n <p>Muskie will have a complicated presidency but will secure a second term in his close victory over Governor Reagan. Your family is happy to have you around more, but you'll ruin that too. Your wandering eye lands on your assistant, Megan Marshack. You'll die in circumstances with her that are undoubtedly romantic. What a real, classy way to end your legacy. At the funeral session, Blanchet Rockefeller turned to Hugh Morrow “Well, we'll miss them both.” She told Morrow, referring to you and her late husband, John Rockefeller III. “But it is a lot more peaceful.”</p>",
+            "endingText": "<h3>Failure Republicanism</h3>\n<p>You failed Nelson You Failed, You failed, You failed. Kissinger apologizes for what happened as you watch the landslide sweep you to the side. It doesn't matter, you look at Happy as she comforts you. There is no comeback from this. There is no saving your image. You were destroyed. You will mull over this defeat and its causes for the rest of your life. Were you too liberal? Too conservative? Did you put too much trust in Henry?</p>\n <p>Muskie will have a complicated presidency but will secure a second term in his close victory over Governor Reagan. Your family is happy to have you around more, but you'll ruin that too. Your wandering eye lands on your assistant, Megan Marshack. You'll die in circumstances with her that are undoubtedly romantic. What a real, classy way to end your legacy. At the funeral session, Blanchet Rockefeller turned to Hugh Morrow “Well, we'll miss them both.” She told Morrow, referring to you and her late husband, John Rockefeller III. “But it is a lot more peaceful.”</p>",
             "amount": "0"
         },
         "1712397074219": {
